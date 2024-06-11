@@ -38,7 +38,7 @@ Decreases the total supply of tokens and removes the specified number of tokens 
 
 ## Usage
 
-To interact with this contract, you can use Ethereum development environments such as [Remix](https://remix.ethereum.org/), [Truffle](https://www.trufflesuite.com/), or [Hardhat](https://hardhat.org/).
+To interact with this contract, you can use Ethereum development environments such as [Remix](https://remix.ethereum.org/) or [Truffle](https://www.trufflesuite.com/) .
 
 ### Deploying the Contract
 
@@ -73,4 +73,4 @@ This project is inspired by the basic principles of ERC-20 tokens and aims to pr
 
 ## Contact
 
-For any inquiries, please contact [Tanmay Garg] at [gargtanmay32@gmail.com].
+For any inquiries, please contact [Sorabh Kumar] at [Sorabhkumar10052002@gmail.com].
